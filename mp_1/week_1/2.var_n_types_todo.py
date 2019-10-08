@@ -13,3 +13,6 @@ print(type(float1))
 print(type(3.6753))
 print(type(string1))
 print(type(True))
+
+# TODO: print type true or false
+print(True)
